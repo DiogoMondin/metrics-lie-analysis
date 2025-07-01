@@ -8,8 +8,6 @@ A atividade propõe:
 - A **justificativa de cada ponto**, com explicações e perguntas investigativas;
 - Uma **conclusão executiva** sintetizando os achados da análise, como seria apresentada a um gestor.
 
-O objetivo da atividade é desenvolver a capacidade de **interpretação analítica de dados de performance** e **comunicação clara de insights estratégicos**.
-
 ---
 
 ## Análise Crítica
