@@ -1,6 +1,6 @@
 # Análise Crítica de Indicadores de Desempenho
 
-Este repositório apresenta a resolução da atividade proposta com base em dados fictícios no contexto do dataset **"T&D 4 25.2"**. A atividade consiste em realizar uma **análise crítica de indicadores de desempenho**, utilizando uma tabela com métricas mensais, com o objetivo de identificar possíveis distorções nos resultados, justificar os achados com perguntas investigativas e elaborar uma conclusão com insights estratégicos.
+Este repositório apresenta a resolução da atividade proposta com base em dados fictícios do dataset **"T&D 4 25.2"**. A atividade consiste em realizar uma **análise crítica de indicadores de desempenho**, utilizando uma tabela com métricas mensais, com o objetivo de identificar possíveis distorções nos resultados, justificar os achados com perguntas investigativas e elaborar uma conclusão com insights estratégicos.
 
 A atividade propõe:
 
