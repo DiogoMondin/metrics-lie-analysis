@@ -4,9 +4,9 @@ Este repositório apresenta a resolução da atividade proposta com base em dado
 
 A atividade propõe:
 
-- A identificação de **pelo menos 3 pontos críticos** que mostram que os resultados não são tão positivos quanto aparentam;
-- A **justificativa de cada ponto**, com explicações e perguntas investigativas;
-- Uma **conclusão executiva** sintetizando os achados da análise, como seria apresentada a um gestor.
+- **Análise crítica:** Liste pelo menos 3 pontos que indicam que os resultados não são tão positivos quanto parecem;
+- **Justifique:** Para cada ponto, explique por que pode ser problemático e qual pergunta você faria para investigar melhor;
+- **Conclusão executiva:** Redija um parágrafo final que você enviaria ao seu gestor resumindo a situação com base em sua análise.
 
 ---
 
